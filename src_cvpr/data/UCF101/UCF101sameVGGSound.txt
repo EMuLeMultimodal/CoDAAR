@@ -1,0 +1,16 @@
+PlayingGuitar
+PlayingCello
+Skiing
+TableTennisShot
+Typing
+JumpRope
+FrisbeeCatch
+PlayingFlute
+PlayingPiano
+Basketball
+Bowling	bowling
+PlayingSitar
+VolleyballSpiking
+PlayingTabla
+SkateBoarding
+PlayingViolin
